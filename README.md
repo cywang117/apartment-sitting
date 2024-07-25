@@ -96,6 +96,18 @@ Mimi and Pepper use the Litterbot, an automated litterbox. It detects (for the m
 
 When the bot is full, the blue LED will flash instead of being solid, and the bag under the bot will need to be replaced. This should happen about once a week so it's pretty low-maintenance. [Here](https://youtu.be/e4PaCFL1js0?t=30) is a short video about how to empty the litterbot. Replacement plastic bags are on the shelf above the printer.
 
+## Water
+
+Mimi and Pepper sometimes drink from the water fountain in the kitchen. It should be fine to leave alone for the two weeks.
+
+## Snacks
+
+Mimi and Pepper enjoy the Churu tube and Blue Mountain Bursts. The Bursts are stored in the fridge:
+
+![Bursts](./static/bursts-snack.jpeg)
+
+Please try not to exceed ~4 bursts and a teaspoon of Churu per cat per day!
+
 ## Accidents
 
 All accidents with vomit may be cleaned up with a combination of paper towels, wet wipes, and enzymatic pet cleaning spray if the stain is persistent. Wet wipes and spray are both in the bathroom. The teal towels can also be used if necessary.
