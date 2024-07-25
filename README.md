@@ -129,6 +129,8 @@ Note 2: If you run out of distilled water, feel free to use filtered tap water, 
 
 ![Tap water conditioner](./static/tap-water-conditioner.jpeg)
 
+Note 3: Any new leaves that are cute, or any plants that start struggling, please send a pic!
+
 ## Succulents
 
 Succulents both inside and outside can be left alone for the two weeks, they will be fine.
@@ -160,6 +162,10 @@ There is a propagation tub with some hoya cuttings in it to the left of the TV o
 The basil and bush beans are the only crops that require watering daily. The radishes and mint are on the decline but you can give the mint some water if you remember. Split a watering can of water between the basil & beans. Please feel free to use all the basil you want as it's a bit overgrown!
 
 If you see any flowers on the basil, trim them off. Also harvest any bush beans you see if they're ripe.
+
+# Mushrooms
+
+Christina is growing a tub of chestnut mushrooms by the shoe rack. It's experimental so if anything interesting happens, please let Christina know! Otherwise, keep the tub moist by misting with the water mister on top of the tub.
 
 # Other apartment things
 
