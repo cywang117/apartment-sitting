@@ -151,6 +151,10 @@ I've been watering all the plants in soil about once a week, and they've been fi
 
 ![Foliage Pro](./static/foliage-pro.jpeg)
 
+## Propagation tub
+
+There is a propagation tub with some hoya cuttings in it to the left of the TV on the floor. It should be fine for the two weeks.
+
 ## Grow tent
 
 The basil and bush beans are the only crops that require watering daily. The radishes and mint are on the decline but you can give the mint some water if you remember. Split a watering can of water between the basil & beans. Please feel free to use all the basil you want as it's a bit overgrown!
