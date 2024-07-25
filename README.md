@@ -124,7 +124,7 @@ Warning: Mimi did pee on the bed a few times while he had a UTI. All the sheets,
 
 # Houseplants
 
-There are four categories of plants: succulents, plants in semi-hydro (with inorganic substrates of pon or leca and visible water reservoirs), plants in soil, and crops in the grow tent.
+There are five categories of plants: succulents, plants in semi-hydro (with inorganic substrates of pon or leca and visible water reservoirs), plants in soil, carnivorous plants, and crops in the grow tent.
 
 Note: the grow lights over the plant rack near the balcony door are HOT. Please be careful!
 
@@ -155,6 +155,18 @@ Plants in soil are comprised of the outdoor plants (excluding succulents), the M
 I've been watering all the plants in soil about once a week, and they've been fine. When watering using the watering can, combine foliage pro in the gallon jug with distilled water, and add a drop of anti fungus-gnat liquid.
 
 ![Foliage Pro](./static/foliage-pro.jpeg)
+
+## Carnivorous plants
+
+Carnivorous plants are the five small pots sitting in water near the top of the plant cabinet:
+
+![Carnivorous plants](./static/carnivorous-plants.jpeg)
+
+Unlike the other plants which can tolerate filtered tap water if necessary, these plants should ONLY be watered with distilled water.
+
+Watering is simple: just top up the shelf with distilled water up to an inch when you see that it's running low. I transfer water to this small bottle for easy pouring:
+
+![Bottle of distilled water](./static/distilled-water.jpeg)
 
 ## Propagation tub
 
