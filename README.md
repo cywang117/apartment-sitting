@@ -1,6 +1,9 @@
 # Apartment Sitting
 Apartment sitting manual for Christina & Michael ❤️
 
+Hint: Navigate using the table of contents button:
+![ToC](./static/toc.png)
+
 # Mimi and Pepper
 
 ![Mimi and Pepper](./static/mimipepe.jpeg)
