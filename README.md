@@ -111,6 +111,11 @@ Mimi and Pepper enjoy the Churu tube and Blue Mountain Bursts. The Bursts are st
 
 Please try not to exceed ~4 bursts and a teaspoon of Churu per cat per day!
 
+## Playtime & quirks
+
+- Mimi likes to sit by the sink waiting for you to turn on the water so he can drink
+- Both kitties like to play with string
+
 ## Accidents
 
 All accidents with vomit may be cleaned up with a combination of paper towels, wet wipes, and enzymatic pet cleaning spray if the stain is persistent. Wet wipes and spray are both in the bathroom. The teal towels can also be used if necessary.
