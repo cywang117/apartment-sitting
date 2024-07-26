@@ -198,6 +198,7 @@ The air conditioner produces a lot of water while active, especially in medium /
 - Paper towels: in Michael's office in the closet
 - Toilet paper: on the shelf next to the washer and dryer
 - Drying rack for hang-dry clothes: on the balcony
+- Spare bedsheets & pillowcases: in the bedside table drawers
 
 ## Maintenance
 
